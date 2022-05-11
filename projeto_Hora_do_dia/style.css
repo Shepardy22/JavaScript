@@ -1,0 +1,36 @@
+body{
+    background:rgb(113, 113, 194);
+    font: normal 15pt arial;
+}
+header{
+    color:white;
+    text-align:center;
+}
+section{
+    background: white;
+    border-radius: 10px; /*arredondar cantos da section*/
+    padding: 15px; /*espaçamento dentro da section*/
+    width: 500px; /*largura fixa */
+    margin:auto; /*centraliza automaticamente*/
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.815);/*5px desl. lateral, 5px desl. vertical, 10px espalhamento */
+}
+#msgHora{
+    text-align: center;
+}
+#foto{
+    text-align: center;
+}
+
+footer{
+    text-align:center;
+    color:white;
+    font-style: italic;
+
+}
+#imagem{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+
+    
+}
