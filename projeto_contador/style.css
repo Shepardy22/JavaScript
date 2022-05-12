@@ -1,0 +1,20 @@
+body{
+    background:rgb(103, 207, 214);
+}
+h1{
+    text-align:center;
+}
+section{
+    padding-left: 10px;
+    background-color:aliceblue;
+    box-shadow: 2px 2px 2px black;
+    border:2px solid black;
+    border-radius: 10px;
+    max-width: 400px;
+    max-height: 400px;
+    margin:auto;
+}
+
+footer{
+    text-align:center;
+}
